@@ -44,14 +44,6 @@
                 ]
             },
             "deployment_groups": {
-                "rework_picks": {
-                    "title": "Rework picks",
-                    "internal_code": "RW-PICKS-000",
-                    "payload": [
-                        {"uid": "AppExample_01", "label": "AppExample"},
-                        {"uid": "AppExample_02", "label": "AppExample"}
-                    ]
-                },
                 "curated_selection": {
                     "title": "Featured",
                     "internal_code": "RW-FL-001",
@@ -95,14 +87,6 @@
                 "rated_peak": {
                     "title": "Best Rated",
                     "internal_code": "RW-RT-006",
-                    "payload": [
-                        {"uid": "AppExample_01", "label": "AppExample"},
-                        {"uid": "AppExample_02", "label": "AppExample"}
-                    ]
-                },
-                "rework_peak": {
-                    "title": "Rework Apps",
-                    "internal_code": "RW-App-007",
                     "payload": [
                         {"uid": "AppExample_01", "label": "AppExample"},
                         {"uid": "AppExample_02", "label": "AppExample"}
