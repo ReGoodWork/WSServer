@@ -1,0 +1,20 @@
+
+{
+    "displayname": "test",
+    "productType": "test",
+    "category": "test", 
+    "publisher": "test", 
+    "copyright": "test test test. test test test.",
+    "description": "test",
+    "mainStars": "test",
+    "ratingNumber": "test",
+    "ratingsCount": "test",
+    "size": "999 TB",
+    "ageRating": "Nobody",
+    "imgUrl": "https://regoodwork.github.io/WSServer/images/test.png",
+    "pageimg1": "https://regoodwork.github.io/WSServer/images/test.png",
+    "pageimg2": "https://regoodwork.github.io/WSServer/images/test.png",
+    "pageimg3": "https://regoodwork.github.io/WSServer/images/test.png",
+    "downloadUri": ""
+}
+
